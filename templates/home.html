@@ -1,0 +1,146 @@
+<html>
+
+<!-- Theme Made By www.w3schools.com -->
+  <title>Bootstrap Theme Company Page</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+ <link rel="stylesheet" type="text/css" href="homecss.css">
+<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+
+ <style>
+
+ </style>
+ 
+<script type="text/javascript">
+    $(document).ready(function(){
+        $('.custom-file-input input[type="file"]').change(function(e){
+            $(this).siblings('input[type="text"]').val(e.target.files[0].name);
+        });
+    });
+</script>
+   <body>
+   <div>
+
+
+
+<div class="jumbotron text-center">
+  <h1>Code Spammers</h1> 
+  <p>We Provide Required Data form Invoice of Any Format</p> 
+ 
+ <div class="container">
+ <div class="row">
+    <div class="col-sm-4"></div>
+    <div class="col-sm-3">
+        <center><form action = "http://localhost:5000/uploader" method="post"  enctype="multipart/form-data">
+            <input type="file" id="files" class="text-center" name="file" required></input>
+            <p style="text-align: right; margin-top: 20px;">
+                <center><input type="submit" value="Upload Files" class="btn btn-md btn-primary" /></center>
+            </p>
+        </form></center>
+    </div>
+    <div class="col-sm-5"></div>
+	</div>
+</div>
+
+<!-- you need to include the ShieldUI CSS and JS assets in order for the Upload widget to work -->
+<link rel="stylesheet" type="text/css" href="http://www.shieldui.com/shared/components/latest/css/light-bootstrap/all.min.css" />
+<script type="text/javascript" src="http://www.shieldui.com/shared/components/latest/js/shieldui-all.min.js"></script>
+
+<script type="text/javascript">
+    jQuery(function ($) {
+        $("#files").shieldUpload();
+    });
+</script>
+  <p class="file-return"></p>
+</form>
+	  
+</div>
+
+<!-- Container (Contact Section) 
+<div id="contact" class="container-fluid bg-grey">
+  <h2 class="text-center">CONTACT</h2>
+  <div class="row">
+    <div class="col-sm-5">
+      <p>Contact us and we'll get back to you within 24 hours.</p>
+      <p><span class="glyphicon glyphicon-map-marker"></span> Chicago, US</p>
+      <p><span class="glyphicon glyphicon-phone"></span> +00 1515151515</p>
+      <p><span class="glyphicon glyphicon-envelope"></span> myemail@something.com</p>
+    </div>
+    <div class="col-sm-7 slideanim">
+      <div class="row">
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="name" name="name" placeholder="Name" type="text" required>
+        </div>
+        <div class="col-sm-6 form-group">
+          <input class="form-control" id="email" name="email" placeholder="Email" type="email" required>
+        </div>
+      </div>
+      <textarea class="form-control" id="comments" name="comments" placeholder="Comment" rows="5"></textarea><br>
+      <div class="row">
+        <div class="col-sm-12 form-group">
+          <button class="btn btn-default pull-right" type="submit">Send</button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Image of location/map 
+<img src="/w3images/map.jpg" class="w3-image w3-greyscale-min" style="width:100%">
+<br>
+<footer class="container text-center">
+  <a href="#myPage" title="To Top">
+    <span class="glyphicon glyphicon-chevron-up"></span>
+  </a>
+  <p>Theme Made By <a href="#" title="Visit w3schools">CodeSpammers.com</a></p>
+</footer>
+-->
+<script>
+$(document).ready(function(){
+  // Add smooth scrolling to all links in navbar + footer link
+  $(".navbar a, footer a[href='#myPage']").on('click', function(event) {
+    // Make sure this.hash has a value before overriding default behavior
+    if (this.hash !== "") {
+      // Prevent default anchor click behavior
+      event.preventDefault();
+
+      // Store hash
+      var hash = this.hash;
+
+      // Using jQuery's animate() method to add smooth page scroll
+      // The optional number (900) specifies the number of milliseconds it takes to scroll to the specified area
+      $('html, body').animate({
+        scrollTop: $(hash).offset().top
+      }, 900, function(){
+   
+        // Add hash (#) to URL when done scrolling (default click behavior)
+        window.location.hash = hash;
+      });
+    } // End if
+  });
+  
+  $(window).scroll(function() {
+    $(".slideanim").each(function(){
+      var pos = $(this).offset().top;
+
+      var winTop = $(window).scrollTop();
+        if (pos < winTop + 600) {
+          $(this).addClass("slide");
+        }
+    });
+  });
+})
+
+
+</script>
+
+	  
+   </body>
+</html>
+
+

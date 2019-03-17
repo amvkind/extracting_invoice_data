@@ -1,0 +1,18 @@
+Demo Company INVOICE
+Demo Company Phone : 141-222-3333 Invoice# 1024
+1234 Main Street Fax: 222-3984444 Account# C1000
+Ashland, KY 41102 Email : sales@example.com Date 01-08-2009
+Due By 02-05-2009
+Terms On Receipt
+Demo Customer 1
+1111 South 4th Street
+Los Angeles, CA 90210
+Code Description aTy Rate | T Amount
+SKU1234 | Test Product 1 - Description of test product 1 1 $1245 | ¥ $12.45
+‘Small Black Widget - Description of the small black widget. 1 $199.99 | N $199.99
+‘Subtotal $212.44
+Tax $1.25
+Total $213.69
+Balance Due $213.69
+
+An invoice footer can go here

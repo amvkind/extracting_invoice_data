@@ -1,0 +1,47 @@
+DATE
+Friday, 12 January 2018
+No.
+QTY
+UNIT PRICE
+1.)
+1
+$200.00
+$200.00
+TAX @
+%
+$0.00
+$200.00
+Bill to :
+Terms :
+$200.00
+PURCHASE ORDER
+101 Cecil Street, #11-11 Tong Eng Building, Singapore 069533 | Phone: (65) 6438 3504                                           
+Email: success@ashnik.com | www.ashnik.com
+GST No.: 
+ASHNIK Reference #
+PO Number
+Ashnik Pte Ltd
+200915920G
+Vendor Name
+EnterpriseDB
+Ashnik Pte Ltd, 101 Cecil Street, #11-11 Tong Eng Building, Singapore 069533
+If you have any questions concerning this purchase order, please contact us (65) 6438 3504 or email us at success@ashnik.com
+DESCRIPTION
+EDB Postgres associate Certification
+PO/July/2017/208
+Partner Agreement
+Payment 30 days after the invoice
+AMOUNT (USD)
+THANK YOU!
+Subscription Details
+SUBTOTAL
+TRANSPORT & HANDLING
+TOTAL
+In words : US Dollar One Hundred and Fifty only
+Note: 
+This is a computer generated valid PURCHASE ORDER 
+and requires no signature. 
+End customer : PT. Inovasi Informatika Indonesia
+EDB Postgres associate Certification for Saurav kumar (saurav.kumar@i-2.co.id)
+Please make sure to send a copy of welcome email to 
+dabir.sachn@ashnik.com, kustubhpm@ashnik.com 

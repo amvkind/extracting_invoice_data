@@ -1,0 +1,163 @@
+Floor 100, 100 Main Street
+GP.0. Box 100, Globecity Globeland, 1000
+Telephone: (01) 9999 9999
+
+Fax : (01) 9999 8888
+
+ 
+
+New World Company PURCHASE ORDER
+
+TO: Acme Parts Corporation SHIP TO: The New World Company
+
+1223 Kelton Street
+Globecity, Globeland 1000
+(via FAX 999/999-9999)
+
+2467 Pioneer Road
+Globecity, Globeland, 1000
+Attn: Shipping/Mary
+
+ 
+
+P.O.
+Number
+
+NW-01-16366
+
+ 
+
+P.O. Date
+
+Feb/28/2001
+
+ 
+
+Resale No.
+
+SR AC 16-943236
+
+ 
+
+GSA Sale
+
+No
+
+ 
+
+Phone
+
+(999) 999-9999
+
+ 
+
+ 
+
+Contact
+
+ 
+
+John Hancock
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FOB: Vendor/Globecity Globeland SHIP VIA: UPS TERMS: Net 30 days
+
+ITem| QUANTITY| PARTNUMBER | DESCRIPTION REQUIRED | um UNIT PRICE PRICE Cues
+001 10 F54749 NW Globe Chassis, 1492 Model 28/02/01 EA 29.50 295.00 Q84645
+002 15 F85352 NW Globe Light Kit 28/02/01 EA 19.00 285.00 Q84646
+003 6 F84352 NW Globe 30" Oak Stand 28/02/01 EA 30.00 180.00 Q84647
+004 20 L86355 NW Atlas Leather-Bound 28/02/01 EA 25.00 500.00 Q84648
+005 12 L86362 NW Atlas Young Readers Series 28/02/01 EA 10.00 120.00 Q84649
+006 40 A86357 NW Pen Rollerball 28/02/01 EA 7.50 300.00 Q84650
+007 25 A86362 NW Pen Fountain 28/02/01 EA 16.00 400.00 Q84651
+008 50 A86552 NW Globe Beach Balls, 24" 28/02/01 EA 5.00 250.00 Q84652
+009 100 A84352 NW Promotional Calendars 28/02/01 EA 0.10 10.00 Q84653
+010 100 A36352 NW Promotional Balloons 28/02/01 EA 0.15 15.00 Q84654
+
+1. PURCHASE ORDER NUMBER, PART NUMBER AND QUANTITY MUST SHOW ON EACH CARTON.
+
+2. Two packing sheets must accompany each shipment. SUB-TOTAL 2,355.00
+
+3. Protection of Material in Transit. All articles delivered on this order to be packed adequately to prevent any
+damage in shipment and storage. Use of newsprint and glassine bags prohibited. All packages to bs (OU | ll ll WM TAX 141.50
+properly identified.
+
+4. Seller must execute acknowledgment copy hereof and return to buyer. No other form of acceptance is NW-01-16366 TOTAL
+binding on buyer. Buyer expressly limits acceptance to the terms stated herein and any additional or different 2,496.50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+terms proposed by seller shall not be binding on buyer, whether or not they would materially alter this order,
+
+and are rejected.
+5. ANY BOX OVER 50 KILOS WILL BE REFUSED.
+
+P.O. ACKNOWLEDGED BY:
+NAME:
+
+DATE: — Page: 1 of 1
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DATE:_Feb/28/2001
+
+PurchaseOrder.cfp6 - Sep2004

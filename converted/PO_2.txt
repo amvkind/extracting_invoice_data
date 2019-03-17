@@ -1,0 +1,49 @@
+SAMPLE PURCHASE ORDER
+ToNGE
+Purchase Order Number 2055
+FROM: Purchase Order Date 6/15/2008
+Your Company
+1122 Cherry Lane
+San Diego, CA 92176
+VENDOR SHIP TO
+NGE INC CENTRAL HIGH SCHOOL
+PO BOX 370/INDUSTRIAL PARK 120 E. MAIN STREET
+ROLAND, IA 50236 FORT MILL, SC 29715-1848
+‘SHIP VIA FOB. POINT EST. SHIP DATE SUBMITTED BY
+ABF Freight Roland, Iowa ‘March 2009 Sue Jones
+gry | MODEL DESCRIPTION wr TOTAL
+—a—— PRICE | AMOUNT
+1] MH1000 | MATHOISTSTORAGE SYSTEM FOR @) 45x 45" $8,920.00 | $8,920.00
+‘MATS (see product description)
+1 NA ‘Mat Hoist Voltage??? 208V, 230V or 460V nic nic
+6 |cL7 | CL-7UNITCLAMP $48.75 | $292.50
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+‘AUTHORIZED SIGNATURE
